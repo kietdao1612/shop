@@ -1,7 +1,45 @@
-# Vanilla JavaScript App
+# Mini Project: Online Shoping - Shoppe Web Clone
+## Date: 07 - 06 - 2022
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+### Functions
+- Study HTML & CSS & Responsive
+- Build a Responsive Website for mobile, tablet, medium screen, large screen
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+### Template
+http://shopee.vn/
 
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+### Screenshot
+
+<img src="https://i.postimg.cc/50JfCz9p/2022-06-07-144738.jpg" />
+
+### Tech-Stack
+- HTML
+- CSS
+
+### After this project
+
+Study HTML & CSS
+- Layout HTML with flex-box
+- Use media queries to make responsive
+- className with BEM
+
+### Directory Structure
+```
+.
+├── assets
+    ├── css
+        ├── base
+        ├── grid
+        ├── main
+        └── responsive
+    └── img
+├── README.md
+└── index.html
+```
+
+### Set up
+Use the cmd line to clone repo to your computer
+```
+git clone [github_repo_url]
+```
+Open `index.html` to run the application
